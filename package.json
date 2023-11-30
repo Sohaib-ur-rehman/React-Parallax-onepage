@@ -1,0 +1,21 @@
+{
+  "name": "parallax",
+  "version": "0.0.14",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.x.x",
+    "react-dom": "16.x.x",
+    "react-parallax": "3.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
